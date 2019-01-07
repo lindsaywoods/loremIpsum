@@ -8,12 +8,6 @@
     "start": "gulp dev",
     "deploy": "gulp"
   },
-  "author": "Ziggy Verstrepen",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:ZiggyV/gulp-sass-boilerplate.git"
-  },
   "devDependencies": {
     "autoprefixer": "^9.3.1",
     "browser-sync": "^2.26.3",
